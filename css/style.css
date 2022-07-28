@@ -1,5 +1,5 @@
 body{
-    font-family: 'Montserrat', sans-serif;
+    font-family: 'Baloo Paaji 2', cursive;
 }
 
 #title{
@@ -9,13 +9,14 @@ body{
 }
 
 #h1{
-    font-family: 'Montserrat';
+    font-family: 'Baloo Paaji 2', cursive;
     font-size: 3rem;
     font-weight: bolder;
     line-height: 1.5cm;
     margin-top: 7rem;
 }
 #h2{
+    font-family: 'Baloo Paaji 2', cursive;
     font-size: 3rem;
     padding: 3%;   
 }
@@ -25,6 +26,8 @@ body{
 .navbar{
     padding-bottom: 3.5rem;
 }
+
+
 
 .nav-item{
     padding: 0 20px;
@@ -60,6 +63,7 @@ transform: rotate(0);
 }
 
 p{
+    font-family: 'Baloo Paaji 2', cursive;
     font-weight: 500;
 }
 
@@ -95,7 +99,9 @@ p{
     margin-bottom: 3rem;
     
 }
-
+.f-style{
+    font-family: 'Baloo Paaji 2', cursive;
+}
 .press-logo{
     width: 15%;
     margin: 1.25rem 1.25rem 3.125rem;
@@ -127,6 +133,7 @@ p{
     background-color: #ef8172;
 }
 .h3-style{
+    font-family: 'Baloo Paaji 2', cursive;
     margin: 3rem ;
     font-size: 3rem;
     line-height: 1.5cm;
@@ -142,5 +149,14 @@ p{
 }
 
 .social-icons{
-    margin: 2%;
+    margin: 1.5%;
+    
+    color: inherit;
+}
+#footer-text{
+    color: black;
+    font-family: 'Baloo Paaji 2', cursive;
+    font-weight: 600;
+    letter-spacing: 2px;
+    
 }
